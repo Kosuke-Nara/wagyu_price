@@ -18,11 +18,17 @@ p {
 .content-width {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 20px;
 }
 
 .result {
   padding: 60px 20px 20px;
+}
+
+.container-fluid.content-width.result {
+  display: flex;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .result a {
