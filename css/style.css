@@ -43,7 +43,7 @@ p {
 
 
 .submit-color {
-  background-color: #DE660D;
+  background-color: #17a2b8;
   color: white;
   opacity: 0.9;
   transition: all 0.4s;
@@ -66,8 +66,4 @@ footer {
 
 .card {
   border-radius: 0;
-}
-
-.nav-time_d-none_d-sm-block {
-  color: #17a2ba;
 }
